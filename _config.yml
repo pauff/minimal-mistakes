@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Pauff"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/pauff_bio_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "关于设计的一切。"
   location         : "Shenzhen"
   email            :
@@ -126,10 +126,12 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
+      url: "https://github.com/pauff"
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+
 
 # Site Footer
 footer:
@@ -142,6 +144,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
+      url: "https://github.com/pauff"
       # url:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
