@@ -106,7 +106,6 @@ analytics:
 
 # Site Author
 author:
-  name             : "Pauff"
   avatar           : "/assets/images/pauff_bio_photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "关于设计的一切。"
   location         : "Shenzhen"
@@ -293,6 +292,5 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
       share: true
       related: true
