@@ -6,6 +6,8 @@ main:
     url: /about/
   - title: "Tags"
     url: /tags/
+  - title: "Tools & Resources"
+    url: /tools/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
