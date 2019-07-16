@@ -1,8 +1,10 @@
 ---
 layout:	single
-classes: wide
 toc: true
 toc_label: "目录"
+header:
+  image: /assets/images/tools-and-resources.jpg
+  caption: "Photo by [Clark Young](https://unsplash.com/@cbyoung) on [Unsplash](https://unsplash.com/photos/fQxMGkYXqFU)"
 title: Tools & Resources 📦
 permalink: /tools/
 ---
