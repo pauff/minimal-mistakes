@@ -25,3 +25,7 @@ Handpicked by Pauff，所有我认为好用的设计工具及资源网站都在�
 
 [Logo EPS](https://logoeps.com/) - 专门提供各大品牌 logo 的矢量素材，甚至涵盖了历史版本哦
 
+## 🖼 Illustrations
+
+[Ouch!](https://icons8.com/ouch) - Icons8 旗下拥有超多免费精致小插画的网站，还有多种分类场景
+
