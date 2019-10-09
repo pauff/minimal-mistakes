@@ -33,9 +33,11 @@ Handpicked by Pauff，所有我认为好用的设计工具及资源网站都在�
 
 [Material Icons](https://material.io/tools/icons/) - Google 官方的 Material 图标库
 
+[useAnimations](https://useanimations.com/) - 精致**微动画交互**的基本图标网站，多平台即下即用
+
 [Human Pictogram](http://pictogram2.com/) - 有趣的人体活动图标库，用在幻灯片里很方便，可用日文或英文搜索
 
-[Logo EPS](https://logoeps.com/) - 专门提供各大品牌 logo 的矢量素材，甚至涵盖了历史版本
+[seeklogo](https://seeklogo.com/) - 专门提供各大品牌 logo 的矢量素材，甚至涵盖了历史版本
 
 
 
@@ -72,6 +74,8 @@ Handpicked by Pauff，所有我认为好用的设计工具及资源网站都在�
 [Space Type Generator](http://spacetypegenerator.com/flag.html) - 输入英文在线生成超酷动图
 
 [Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/) - 超酷炫的流体模拟器，能一键生成烟尘、液化等神奇效果
+
+[Color Claim](https://www.vanschneider.com/colors) - 设计师 Tobias van Schneider 的私人配色收藏站
 
 [Archetype](https://archetypeapp.com) - 利用 Google Web Fonts 在线自定义预览字体搭配效果，还可一键导出
 
