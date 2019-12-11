@@ -19,7 +19,9 @@ Handpicked by Pauff，所有我认为好用的设计工具及资源网站都在�
 
 [Collect UI](https://collectui.com/) - 每日更新，按不同元素分类详尽的 UI 设计灵感大杂烩
 
-[UI Sources](https://www.uisources.com/) - 深入分析当今世界上最火的 apps 功能及界面设计
+[UI Sources](https://www.uisources.com/) - 深入分析目前世界上最火的 apps 功能及界面设计
+
+[Adele](https://adele.uxpin.com/) - 集合了各大公司共享的设计系统及组件库
 
 
 
@@ -53,6 +55,10 @@ Handpicked by Pauff，所有我认为好用的设计工具及资源网站都在�
 
 [IRA Design](https://iradesign.io/) - 主打渐变风格的矢量人物插画素材网站，支持在线更改渐变色
 
+[Biodiversity Heritage Library](https://www.flickr.com/photos/biodivlibrary/albums) - 10 万余张来自十九世纪生物多样性图鉴的精美手绘插画
+
+[USDA Pomological Watercolors](https://usdawatercolors.nal.usda.gov/) - 美国农业部公开的 7500 余张绘于百年前的精美水果水彩画
+
 
 
 ## 💻 Mockups & Templates
@@ -71,6 +77,10 @@ Handpicked by Pauff，所有我认为好用的设计工具及资源网站都在�
 
 ## 🔧 Tools
 
+[Coolors](https://coolors.co/) - 简洁而强大的色彩搭配网站
+
+[WebGradients](https://webgradients.com/) - 上百个迷人的渐变，每个都被赋予了名字，且打开即用
+
 [Space Type Generator](http://spacetypegenerator.com/flag.html) - 输入英文在线生成超酷动图
 
 [Fluid Simulation](https://paveldogreat.github.io/WebGL-Fluid-Simulation/) - 超酷炫的流体模拟器，能一键生成烟尘、液化等神奇效果
@@ -79,10 +89,32 @@ Handpicked by Pauff，所有我认为好用的设计工具及资源网站都在�
 
 [Archetype](https://archetypeapp.com) - 利用 Google Web Fonts 在线自定义预览字体搭配效果，还可一键导出
 
+[Smooth Shadow Generator](https://brumm.af/shadows) - 调节参数即可自动生成多层的自然阴影效果，提供代码复制
+
 
 
 ## 🤯 Inspirations
 
+[The Outline](https://theoutline.com/) - 设计排版极富创造力的新闻网站
+
 [Nick Jones](http://www.narrowdesign.com) - 极富创意的利用黄金分割的引导式导航设计
 
 [FontFace Ninja](https://fontface.ninja/) - 一个弹窗贯穿始终的独特创意
+
+
+
+## 💎 Sketch Plugins
+
+[Kitchen](https://kitchen.alipay.com/) - 蚂蚁金服出品，包括图标库、智能排版、数据填充、色板管理等功能
+
+[Craft](https://www.invisionapp.com/craft) - InVision 旗下的多功能插件，类似 Kitchen
+
+[Gallery](https://material.io/resources/gallery/) - Google 的 Material Design 官方插件
+
+[Rename-It](https://github.com/rodi01/RenameIt) - 利用通配符批量修改图层名
+
+[Prism](https://github.com/ment-mx/Prism) - 将文档色一键生成美观的色卡组
+
+[Select Similar Layers](https://github.com/wonderbit/sketch-select-similar-layers) - 快捷选择有相同自定义属性的图层
+
+[Symbol Organizer](https://github.com/sonburn/symbol-organizer) - 快速整理文档内所有的组件
