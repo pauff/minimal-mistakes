@@ -12,6 +12,13 @@ permalink: /tools/
 Handpicked by Pauff，所有我认为好用的设计工具及资源网站都在这儿了，enjoy~
 
 
+## 📦All In One
+
+[Creative Market](https://creativemarket.com/free-goods) - 大而全的设计资源站，大部分需付费，链接为其每周免费放送页面
+
+[Rawpixel](https://www.rawpixel.com/) - 同样资源丰富，且免费资源较多
+
+
 
 ## 📐UI & UX
 
@@ -79,6 +86,8 @@ Handpicked by Pauff，所有我认为好用的设计工具及资源网站都在�
 
 [Coolors](https://coolors.co/) - 简洁而强大的色彩搭配网站
 
+[Khroma](http://khroma.co/) - 根据用户选择的 50 种颜色利用 AI 生成一系列色彩搭配方案，以文字、渐变、图片等形式展现
+
 [WebGradients](https://webgradients.com/) - 上百个迷人的渐变，每个都被赋予了名字，且打开即用
 
 [Space Type Generator](http://spacetypegenerator.com/flag.html) - 输入英文在线生成超酷动图
@@ -99,6 +108,8 @@ Handpicked by Pauff，所有我认为好用的设计工具及资源网站都在�
 
 [Nick Jones](http://www.narrowdesign.com) - 极富创意的利用黄金分割的引导式导航设计
 
+[Bruno Simon](https://bruno-simon.com/) - 3D交互的新世代网站形式
+
 [FontFace Ninja](https://fontface.ninja/) - 一个弹窗贯穿始终的独特创意
 
 
@@ -110,6 +121,8 @@ Handpicked by Pauff，所有我认为好用的设计工具及资源网站都在�
 [Craft](https://www.invisionapp.com/craft) - InVision 旗下的多功能插件，类似 Kitchen
 
 [Gallery](https://material.io/resources/gallery/) - Google 的 Material Design 官方插件
+
+[Easing Gradient](https://github.com/larsenwork/sketch-easing-gradient) - 自动生成过渡更加自然的渐变
 
 [Rename-It](https://github.com/rodi01/RenameIt) - 利用通配符批量修改图层名
 
