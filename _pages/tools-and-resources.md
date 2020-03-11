@@ -38,6 +38,8 @@ Handpicked by Pauff，所有我认为好用的设计工具及资源网站都在�
 
 [Orion](https://orioniconlibrary.com/all-icons) - 质量超高全部手作的精致图标库，丰富的主题分类，还可方便地在线编辑细节后下载
 
+[Icons8](https://icons8.com/icons) - Icons8 旗下的超丰富图标资源库，部分免费
+
 [iconmonstr](https://iconmonstr.com/) - 高质量的黑白现代图标库，并且持续更新ing
 
 [Material Icons](https://material.io/tools/icons/) - Google 官方的 Material 图标库
@@ -112,6 +114,8 @@ Handpicked by Pauff，所有我认为好用的设计工具及资源网站都在�
 
 [FontFace Ninja](https://fontface.ninja/) - 一个弹窗贯穿始终的独特创意
 
+[Bh](https://www.benjaminhenon.com/) - 来自巴黎的设计工作室官网，全屏大图形式的展现，细腻迷人的交互
+
 
 
 ## 💎 Sketch Plugins
@@ -123,6 +127,8 @@ Handpicked by Pauff，所有我认为好用的设计工具及资源网站都在�
 [Gallery](https://material.io/resources/gallery/) - Google 的 Material Design 官方插件
 
 [Easing Gradient](https://github.com/larsenwork/sketch-easing-gradient) - 自动生成过渡更加自然的渐变
+
+[Chart](https://chartplugin.com/) - 一键生成各类统计图表（部分免费）
 
 [Rename-It](https://github.com/rodi01/RenameIt) - 利用通配符批量修改图层名
 
